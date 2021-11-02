@@ -1,6 +1,6 @@
 package videos_curtos;
 
-public class Main {
+public class ParOuImpar {
 
 	public static void main(String[] args) {
 		
