@@ -6,6 +6,11 @@ public class Atribuicoes {
 		
 		int a = 10;
 		int aux = 5;
+		
+		a/= aux;
+		
+//		System.out.println(a);
+		
 
 		
 //		Operações normais
@@ -29,6 +34,7 @@ public class Atribuicoes {
 		
 //		Fórmula: Variável(a) | Operação (+ - * /) | = | Valor(x) 
 		
+		a+=10;
 		System.out.println(a);
 		
 		
